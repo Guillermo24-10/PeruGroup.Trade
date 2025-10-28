@@ -1,0 +1,11 @@
+F:\Proyect_Visual\APP_ANGULAR_NETCORE\gRPC\Proyecto\PeruGroup.Trade\src\PeruGroup.Trade.Application.UseCases\bin\Debug\net8.0\PeruGroup.Trade.Application.UseCases.deps.json
+F:\Proyect_Visual\APP_ANGULAR_NETCORE\gRPC\Proyecto\PeruGroup.Trade\src\PeruGroup.Trade.Application.UseCases\bin\Debug\net8.0\PeruGroup.Trade.Application.UseCases.dll
+F:\Proyect_Visual\APP_ANGULAR_NETCORE\gRPC\Proyecto\PeruGroup.Trade\src\PeruGroup.Trade.Application.UseCases\bin\Debug\net8.0\PeruGroup.Trade.Application.UseCases.pdb
+F:\Proyect_Visual\APP_ANGULAR_NETCORE\gRPC\Proyecto\PeruGroup.Trade\src\PeruGroup.Trade.Application.UseCases\obj\Debug\net8.0\PeruGroup.Trade.Application.UseCases.GeneratedMSBuildEditorConfig.editorconfig
+F:\Proyect_Visual\APP_ANGULAR_NETCORE\gRPC\Proyecto\PeruGroup.Trade\src\PeruGroup.Trade.Application.UseCases\obj\Debug\net8.0\PeruGroup.Trade.Application.UseCases.AssemblyInfoInputs.cache
+F:\Proyect_Visual\APP_ANGULAR_NETCORE\gRPC\Proyecto\PeruGroup.Trade\src\PeruGroup.Trade.Application.UseCases\obj\Debug\net8.0\PeruGroup.Trade.Application.UseCases.AssemblyInfo.cs
+F:\Proyect_Visual\APP_ANGULAR_NETCORE\gRPC\Proyecto\PeruGroup.Trade\src\PeruGroup.Trade.Application.UseCases\obj\Debug\net8.0\PeruGroup.Trade.Application.UseCases.csproj.CoreCompileInputs.cache
+F:\Proyect_Visual\APP_ANGULAR_NETCORE\gRPC\Proyecto\PeruGroup.Trade\src\PeruGroup.Trade.Application.UseCases\obj\Debug\net8.0\PeruGroup.Trade.Application.UseCases.dll
+F:\Proyect_Visual\APP_ANGULAR_NETCORE\gRPC\Proyecto\PeruGroup.Trade\src\PeruGroup.Trade.Application.UseCases\obj\Debug\net8.0\refint\PeruGroup.Trade.Application.UseCases.dll
+F:\Proyect_Visual\APP_ANGULAR_NETCORE\gRPC\Proyecto\PeruGroup.Trade\src\PeruGroup.Trade.Application.UseCases\obj\Debug\net8.0\PeruGroup.Trade.Application.UseCases.pdb
+F:\Proyect_Visual\APP_ANGULAR_NETCORE\gRPC\Proyecto\PeruGroup.Trade\src\PeruGroup.Trade.Application.UseCases\obj\Debug\net8.0\ref\PeruGroup.Trade.Application.UseCases.dll

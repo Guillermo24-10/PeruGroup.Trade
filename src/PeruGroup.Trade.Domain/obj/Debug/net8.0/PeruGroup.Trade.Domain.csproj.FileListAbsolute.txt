@@ -1,0 +1,11 @@
+F:\Proyect_Visual\APP_ANGULAR_NETCORE\gRPC\Proyecto\PeruGroup.Trade\src\PeruGroup.Trade.Domain\bin\Debug\net8.0\PeruGroup.Trade.Domain.deps.json
+F:\Proyect_Visual\APP_ANGULAR_NETCORE\gRPC\Proyecto\PeruGroup.Trade\src\PeruGroup.Trade.Domain\bin\Debug\net8.0\PeruGroup.Trade.Domain.dll
+F:\Proyect_Visual\APP_ANGULAR_NETCORE\gRPC\Proyecto\PeruGroup.Trade\src\PeruGroup.Trade.Domain\bin\Debug\net8.0\PeruGroup.Trade.Domain.pdb
+F:\Proyect_Visual\APP_ANGULAR_NETCORE\gRPC\Proyecto\PeruGroup.Trade\src\PeruGroup.Trade.Domain\obj\Debug\net8.0\PeruGroup.Trade.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Proyect_Visual\APP_ANGULAR_NETCORE\gRPC\Proyecto\PeruGroup.Trade\src\PeruGroup.Trade.Domain\obj\Debug\net8.0\PeruGroup.Trade.Domain.AssemblyInfoInputs.cache
+F:\Proyect_Visual\APP_ANGULAR_NETCORE\gRPC\Proyecto\PeruGroup.Trade\src\PeruGroup.Trade.Domain\obj\Debug\net8.0\PeruGroup.Trade.Domain.AssemblyInfo.cs
+F:\Proyect_Visual\APP_ANGULAR_NETCORE\gRPC\Proyecto\PeruGroup.Trade\src\PeruGroup.Trade.Domain\obj\Debug\net8.0\PeruGroup.Trade.Domain.csproj.CoreCompileInputs.cache
+F:\Proyect_Visual\APP_ANGULAR_NETCORE\gRPC\Proyecto\PeruGroup.Trade\src\PeruGroup.Trade.Domain\obj\Debug\net8.0\PeruGroup.Trade.Domain.dll
+F:\Proyect_Visual\APP_ANGULAR_NETCORE\gRPC\Proyecto\PeruGroup.Trade\src\PeruGroup.Trade.Domain\obj\Debug\net8.0\refint\PeruGroup.Trade.Domain.dll
+F:\Proyect_Visual\APP_ANGULAR_NETCORE\gRPC\Proyecto\PeruGroup.Trade\src\PeruGroup.Trade.Domain\obj\Debug\net8.0\PeruGroup.Trade.Domain.pdb
+F:\Proyect_Visual\APP_ANGULAR_NETCORE\gRPC\Proyecto\PeruGroup.Trade\src\PeruGroup.Trade.Domain\obj\Debug\net8.0\ref\PeruGroup.Trade.Domain.dll
