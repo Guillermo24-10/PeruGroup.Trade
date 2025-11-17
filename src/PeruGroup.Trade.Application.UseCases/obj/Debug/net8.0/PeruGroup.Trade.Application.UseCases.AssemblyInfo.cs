@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PeruGroup.Trade.Application.UseCases")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+512bef9946ef254fc1f7a37f08341b9d12fb2034")]
 [assembly: System.Reflection.AssemblyProductAttribute("PeruGroup.Trade.Application.UseCases")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PeruGroup.Trade.Application.UseCases")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
