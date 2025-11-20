@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("PeruGroup.Trade.Domain")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("PeruGroup.Trade.Persistence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31f14f66eac5e9a70042a927154f35af512f979d")]
-[assembly: System.Reflection.AssemblyProductAttribute("PeruGroup.Trade.Domain")]
-[assembly: System.Reflection.AssemblyTitleAttribute("PeruGroup.Trade.Domain")]
+[assembly: System.Reflection.AssemblyProductAttribute("PeruGroup.Trade.Persistence")]
+[assembly: System.Reflection.AssemblyTitleAttribute("PeruGroup.Trade.Persistence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

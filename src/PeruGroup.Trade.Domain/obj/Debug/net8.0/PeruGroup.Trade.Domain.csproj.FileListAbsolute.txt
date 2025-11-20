@@ -9,3 +9,4 @@ F:\Proyect_Visual\APP_ANGULAR_NETCORE\gRPC\Proyecto\PeruGroup.Trade\src\PeruGrou
 F:\Proyect_Visual\APP_ANGULAR_NETCORE\gRPC\Proyecto\PeruGroup.Trade\src\PeruGroup.Trade.Domain\obj\Debug\net8.0\refint\PeruGroup.Trade.Domain.dll
 F:\Proyect_Visual\APP_ANGULAR_NETCORE\gRPC\Proyecto\PeruGroup.Trade\src\PeruGroup.Trade.Domain\obj\Debug\net8.0\PeruGroup.Trade.Domain.pdb
 F:\Proyect_Visual\APP_ANGULAR_NETCORE\gRPC\Proyecto\PeruGroup.Trade\src\PeruGroup.Trade.Domain\obj\Debug\net8.0\ref\PeruGroup.Trade.Domain.dll
+F:\Proyect_Visual\APP_ANGULAR_NETCORE\gRPC\Proyecto\PeruGroup.Trade\src\PeruGroup.Trade.Domain\obj\Debug\net8.0\PeruGroup.Trade.Domain.sourcelink.json
