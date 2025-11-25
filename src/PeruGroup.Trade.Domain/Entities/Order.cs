@@ -11,5 +11,8 @@ namespace PeruGroup.Trade.Domain.Entities
         public int Quanty { get; set; }
         public OrderType Type { get; set; }
         public decimal Price { get; set; }
+        public string Currency { get; set; } = string.Empty;
+        public string? Text { get; set; }
+
     }
 }

@@ -9,3 +9,4 @@ F:\Proyect_Visual\APP_ANGULAR_NETCORE\gRPC\Proyecto\PeruGroup.Trade\src\PeruGrou
 F:\Proyect_Visual\APP_ANGULAR_NETCORE\gRPC\Proyecto\PeruGroup.Trade\src\PeruGroup.Trade.Application.UseCases\obj\Debug\net8.0\refint\PeruGroup.Trade.Application.UseCases.dll
 F:\Proyect_Visual\APP_ANGULAR_NETCORE\gRPC\Proyecto\PeruGroup.Trade\src\PeruGroup.Trade.Application.UseCases\obj\Debug\net8.0\PeruGroup.Trade.Application.UseCases.pdb
 F:\Proyect_Visual\APP_ANGULAR_NETCORE\gRPC\Proyecto\PeruGroup.Trade\src\PeruGroup.Trade.Application.UseCases\obj\Debug\net8.0\ref\PeruGroup.Trade.Application.UseCases.dll
+F:\Proyect_Visual\APP_ANGULAR_NETCORE\gRPC\Proyecto\PeruGroup.Trade\src\PeruGroup.Trade.Application.UseCases\obj\Debug\net8.0\PeruGroup.Trade.Application.UseCases.sourcelink.json

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PeruGroup.Trade.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31f14f66eac5e9a70042a927154f35af512f979d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e72649793cf4b338d68ec50389246eb2bfe30e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("PeruGroup.Trade.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PeruGroup.Trade.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

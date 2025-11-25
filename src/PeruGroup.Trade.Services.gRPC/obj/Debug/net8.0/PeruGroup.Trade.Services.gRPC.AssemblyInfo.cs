@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PeruGroup.Trade.Services.gRPC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e72649793cf4b338d68ec50389246eb2bfe30e2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d73d77f9fd4148294707612a58d69debc3eebf8")]
 [assembly: System.Reflection.AssemblyProductAttribute("PeruGroup.Trade.Services.gRPC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PeruGroup.Trade.Services.gRPC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
